@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nail2\\OneDrive - HTL Saalfelden\\school\\WMC\\4Kl\\WeatherAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4359A61-7277-4216-9DFC-F26947759DE0}|WeatherAPI\\WeatherAPI.csproj|c:\\users\\nail2\\onedrive - htl saalfelden\\school\\wmc\\4kl\\weatherapi\\weatherapi\\weatherapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{C4359A61-7277-4216-9DFC-F26947759DE0}|WeatherAPI\\WeatherAPI.csproj|solutionrelative:weatherapi\\weatherapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4359A61-7277-4216-9DFC-F26947759DE0}|WeatherAPI\\WeatherAPI.csproj|c:\\users\\nail2\\onedrive - htl saalfelden\\school\\wmc\\4kl\\weatherapi\\weatherapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4359A61-7277-4216-9DFC-F26947759DE0}|WeatherAPI\\WeatherAPI.csproj|solutionrelative:weatherapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4359A61-7277-4216-9DFC-F26947759DE0}|WeatherAPI\\WeatherAPI.csproj|c:\\users\\nail2\\onedrive - htl saalfelden\\school\\wmc\\4kl\\weatherapi\\weatherapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4359A61-7277-4216-9DFC-F26947759DE0}|WeatherAPI\\WeatherAPI.csproj|solutionrelative:weatherapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4359A61-7277-4216-9DFC-F26947759DE0}|WeatherAPI\\WeatherAPI.csproj|c:\\users\\nail2\\onedrive - htl saalfelden\\school\\wmc\\4kl\\weatherapi\\weatherapi\\weatherapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C4359A61-7277-4216-9DFC-F26947759DE0}|WeatherAPI\\WeatherAPI.csproj|solutionrelative:weatherapi\\weatherapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherAPI.http",
+              "DocumentMoniker": "C:\\Users\\Nail2\\OneDrive - HTL Saalfelden\\school\\WMC\\4Kl\\WeatherAPI\\WeatherAPI\\WeatherAPI.http",
+              "RelativeDocumentMoniker": "WeatherAPI\\WeatherAPI.http",
+              "ToolTip": "C:\\Users\\Nail2\\OneDrive - HTL Saalfelden\\school\\WMC\\4Kl\\WeatherAPI\\WeatherAPI\\WeatherAPI.http",
+              "RelativeToolTip": "WeatherAPI\\WeatherAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-11-17T15:12:14.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nail2\\OneDrive - HTL Saalfelden\\school\\WMC\\4Kl\\WeatherAPI\\WeatherAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WeatherAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Nail2\\OneDrive - HTL Saalfelden\\school\\WMC\\4Kl\\WeatherAPI\\WeatherAPI\\Program.cs",
+              "RelativeToolTip": "WeatherAPI\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T15:11:56.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherAPI",
+              "DocumentMoniker": "C:\\Users\\Nail2\\OneDrive - HTL Saalfelden\\school\\WMC\\4Kl\\WeatherAPI\\WeatherAPI\\WeatherAPI.csproj",
+              "RelativeDocumentMoniker": "WeatherAPI\\WeatherAPI.csproj",
+              "ToolTip": "C:\\Users\\Nail2\\OneDrive - HTL Saalfelden\\school\\WMC\\4Kl\\WeatherAPI\\WeatherAPI\\WeatherAPI.csproj",
+              "RelativeToolTip": "WeatherAPI\\WeatherAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-17T15:07:48.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Nail2\\OneDrive - HTL Saalfelden\\school\\WMC\\4Kl\\WeatherAPI\\WeatherAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherAPI\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Nail2\\OneDrive - HTL Saalfelden\\school\\WMC\\4Kl\\WeatherAPI\\WeatherAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherAPI\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T14:45:25.187Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
